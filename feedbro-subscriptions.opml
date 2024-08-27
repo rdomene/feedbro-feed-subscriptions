@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Microsoft SQL Server" text="Microsoft SQL Server">
+      <outline text="Brent Ozar Unlimited®" title="Brent Ozar Unlimited®" type="rss" 
+            xmlUrl="https://www.brentozar.com/feed/" htmlUrl="https://www.brentozar.com" maxItems="50"/>
+      <outline text="SQLBlog.org" title="SQLBlog.org" type="rss" 
+            xmlUrl="https://sqlblog.org/feed" htmlUrl="https://sqlblog.org"/>
+  </outline>
+  <outline title="VBA" text="VBA">
+      <outline text="No Longer Set" title="No Longer Set" type="rss" 
+            xmlUrl="https://nolongerset.com/rss/" htmlUrl="https://nolongerset.com/"/>
+  </outline>
+</body>
+</opml>
