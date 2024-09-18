@@ -13,6 +13,8 @@
   <outline title="VBA" text="VBA">
       <outline text="No Longer Set" title="No Longer Set" type="rss" 
             xmlUrl="https://nolongerset.com/rss/" htmlUrl="https://nolongerset.com/"/>
+      <outline text="DEVelopers HUT" title="DEVelopers HUT" type="rss" 
+            xmlUrl="https://www.devhut.net/feed/" htmlUrl="https://www.devhut.net"/>
   </outline>
 </body>
 </opml>
