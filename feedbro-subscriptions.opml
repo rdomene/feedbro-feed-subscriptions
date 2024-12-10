@@ -9,6 +9,8 @@
             xmlUrl="https://www.brentozar.com/feed/" htmlUrl="https://www.brentozar.com" maxItems="50"/>
       <outline text="SQLBlog.org" title="SQLBlog.org" type="rss" 
             xmlUrl="https://sqlblog.org/feed" htmlUrl="https://sqlblog.org"/>
+      <outline text="Larnu.UK" title="Larnu.UK" type="rss" 
+            xmlUrl="https://wp.larnu.uk/feed/" htmlUrl="https://wp.larnu.uk"/>
   </outline>
   <outline title="VBA" text="VBA">
       <outline text="No Longer Set" title="No Longer Set" type="rss" 
