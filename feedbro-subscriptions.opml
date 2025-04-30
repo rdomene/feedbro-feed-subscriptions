@@ -11,6 +11,8 @@
             xmlUrl="https://sqlblog.org/feed" htmlUrl="https://sqlblog.org"/>
       <outline text="Larnu.UK" title="Larnu.UK" type="rss" 
             xmlUrl="https://wp.larnu.uk/feed/" htmlUrl="https://wp.larnu.uk"/>
+      <outline text="Page Free Space" title="Page Free Space" type="rss" 
+            xmlUrl="https://www.sql.kiwi/feed/feed.xml"/>
   </outline>
   <outline title="VBA" text="VBA">
       <outline text="No Longer Set" title="No Longer Set" type="rss" 
