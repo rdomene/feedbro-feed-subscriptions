@@ -13,6 +13,8 @@
             xmlUrl="https://wp.larnu.uk/feed/" htmlUrl="https://wp.larnu.uk"/>
       <outline text="Page Free Space" title="Page Free Space" type="rss" 
             xmlUrl="https://www.sql.kiwi/feed/feed.xml"/>
+      <outline text="sqlsunday.com" title="sqlsunday.com" type="rss" 
+            xmlUrl="https://sqlsunday.com/feed/" htmlUrl="https://sqlsunday.com"/>
   </outline>
   <outline title="VBA" text="VBA">
       <outline text="No Longer Set" title="No Longer Set" type="rss" 
