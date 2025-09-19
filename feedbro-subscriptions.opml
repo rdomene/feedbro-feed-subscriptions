@@ -22,5 +22,9 @@
       <outline text="DEVelopers HUT" title="DEVelopers HUT" type="rss" 
             xmlUrl="https://www.devhut.net/feed/" htmlUrl="https://www.devhut.net"/>
   </outline>
+  <outline title="Obsidian" text="Obsidian">
+      <outline text="Obsidian Rocks" title="Obsidian Rocks" type="rss" 
+            xmlUrl="https://obsidian.rocks/feed/" htmlUrl="https://obsidian.rocks/"/>
+  </outline>
 </body>
 </opml>
